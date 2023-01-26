@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nave",
+    "texture": "232d2347-d6f0-4e79-bb8b-52336edcccc0",
+    "atlas": "",
+    "rect": [
+      113,
+      19,
+      286,
+      474
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

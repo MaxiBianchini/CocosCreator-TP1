@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Estrella",
+    "texture": "9513b1fd-9449-4692-a734-fd416c838b81",
+    "atlas": "",
+    "rect": [
+      7,
+      11,
+      325,
+      310
+    ],
+    "offset": [
+      -0.5,
+      4
+    ],
+    "originalSize": [
+      340,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
